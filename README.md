@@ -14,7 +14,7 @@ Clone this repo and then run the script in the following way:
 
 Restart you terminal, enjoy a beatiful theme!
 
-The above will create a smyck profilei in MATE Terminal.
+The above will create a smyck profile in MATE Terminal.
 To remove these themes, run the script in the following
 way:
 
